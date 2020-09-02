@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on Myself
 - 🌱 I’m currently learning how to being productive 
 - 👯 I’m looking to collaborate on anything that works
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my experience with life 
+- 🤔 I’m looking for help with, ummm i will let you know 😜 
+- 💬 Ask me about my Android,Design patterns,Data structures up to some extent 😄. 
 - 📫 How to reach me: **aryandhankar11@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: In don't like work.
+- 😄 Pronouns: He/EliteNovice
+- ⚡ Fun fact: In don't like do work. But i like to play and i am a professional 🏓 player.
 
