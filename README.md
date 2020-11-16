@@ -13,4 +13,5 @@
 - ⚡ Fun fact: In don't like do work. But i like to play and i am a professional 🏓 player.
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=GitEliteNovice&show_icons=true&theme=radical)
-![Aryan's github stats](https://github-readme-stats.vercel.app/top-langs/?username=GitEliteNovice&show_icons=true&theme=radical)
+
+![Aryan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GitEliteNovice&show_icons=true&theme=radical)
